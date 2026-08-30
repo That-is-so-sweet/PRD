@@ -15,10 +15,6 @@
 
 ---
 
-> 依 `product-manager-skills` 外掛的 `prd-development` workflow skill 產出，並用 `jobs-to-be-done`、`product-strategy-session`、`prioritization-advisor`、`roadmap-planning`、`user-story`（BDD／Gherkin 格式）五個技能補強對應段落。v2 改版方法論調整為「反向從 prototype 的每個功能模組推導問題與隱含假設 → 逐條列成待確認清單 → 逐一定案」。
->
-> **關於 `product-strategy-session`／`roadmap-planning`／`prioritization-advisor` 的重要說明**：這三個技能原本的設計是跨 1-4 週、由 PM＋工程＋設計＋利害關係人共同參與的工作坊流程。這裡沒有真實團隊可以協作，因此對應內容是**單獨完成的第一版產出**，所有評分與排序都需要之後找工程／設計一起重新過一次，不能直接當作定案依據。
-
 ## 資料夾結構
 
 ```
